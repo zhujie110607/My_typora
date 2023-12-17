@@ -1,3 +1,11 @@
+#### 设置远程仓库与本地仓库关联起来
+
+- git remote add origin 远程仓库地址
+
+#### 推送到远程仓库
+
+- git push -u origin main
+
 #### 从暂存区把文件删除
 
 - git rm 文件名  (同时也会把本地文件也删除）
